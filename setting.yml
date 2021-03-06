@@ -1,0 +1,4 @@
+github:
+  owner: ${REPOSITORY_OWNER}
+  repository: ${REPOSITORY_NAME}
+  token: ${YOUR_PERSONAL_ACCESS_TOKEN}

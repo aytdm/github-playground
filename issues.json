@@ -1,0 +1,11 @@
+{
+  "issues": [
+    {
+      "title": "test title",
+      "body": "test body",
+      "labels": [
+        "test label"
+      ]
+    }
+  ]
+}
