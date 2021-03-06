@@ -1,4 +1,4 @@
-module github.com/aytdm/createissue
+module github.com/aytdm/github-playground
 
 go 1.15
 

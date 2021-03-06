@@ -6,7 +6,7 @@ import (
   "log"
   "os"
 
-  "github.com/aytdm/createissue/github"
+  "github.com/aytdm/github-playground/github"
 )
 
 func Start() {

@@ -1,7 +1,7 @@
 package main
 
 import (
-  "github.com/aytdm/createissue/service"
+  "github.com/aytdm/github-playground/service"
 )
 
 func main() {

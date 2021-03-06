@@ -4,7 +4,7 @@ import (
   "context"
   "log"
 
-  "github.com/aytdm/createissue/config"
+  "github.com/aytdm/github-playground/config"
   "github.com/google/go-github/v33/github"
   "golang.org/x/oauth2"
 )
